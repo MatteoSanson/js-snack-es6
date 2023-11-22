@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    padding: 20px;
+}
+
+.topBike {
+    margin-top: 15px;
+}

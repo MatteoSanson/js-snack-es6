@@ -1,7 +1,7 @@
 # Esercizio JS Snacks
 
 ## Snack 1
-Creare un array di oggetti:
+Creare un array di oggetti.
 <br>
 Ogni oggetto descriverà una bici da corsa con le seguenti proprietà:
 - nome

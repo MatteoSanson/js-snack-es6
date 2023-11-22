@@ -71,8 +71,8 @@ if (lightBike) {
 
     console.log(`La bici che pesa di meno è ${bikeName} col peso di ${bikeWeight} kg`);
     divBike.innerHTML = `
-        <p><strong>Nome Bici: </strong>${lightBike.bikeName}</p>
-        <p><strong>Peso Bici: </strong>${lightBike.bikeWeight} kg</p>
+        <p><strong>Nome Bici: </strong>${bikeName}</p>
+        <p><strong>Peso Bici: </strong>${bikeWeight} kg</p>
     `;
 } else {
     console.log('Nessuna bici trovata.');
